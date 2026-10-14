@@ -34,3 +34,12 @@ Am heutigen Tage habe ich meine Recherche weiter fortgesetzt und mir mit Hilfe v
 
 ### 14.10.2026:
 Heute habe ich versucht mein Problem mit VS Code zu fixen. Am Ende habe ich es dann mit der Hilfe von Herr Lehnen geschafft. Leider musste ich ein neues Repository anlegen. Das heißt, dass circa drei Commits nicht vorhanden sind. Diese waren jedoch eher unwichtig, da in diesen Commits keine wichtigen Änderungen waren. In der restlichen Zeit der Stunde habe ich weiterhin recherchiert, da ich in der nächsten Woche meine Präsentation fertigstellen möchte.
+Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, damit ich so meine Präsentation gut erarbeiten kann. 
+1. Überschrift
+2. Leitfrage und Kriterien+Begründung
+3. Dienste vorstellen (grobe Infos)
+4. Alle vergleichen mit Kriterien
+5. Einen Dienst genau untersuchen
+6. genaue Überprüfung von den Kriterien
+7. Quellen
+8. Fazit
