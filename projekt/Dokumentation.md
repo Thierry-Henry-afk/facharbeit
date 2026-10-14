@@ -28,6 +28,9 @@ Heute habe ich meine Leitfrage erstellt und diese begründet. Ebenfalls habe ich
 In der heutigen Stunde habe ich das Kriterium „Kosten“ bearbeitet und mir viele Informationen darüber aufgeschrieben. Außerdem habe ich schon ein wenig an dem Kriterium „Benutzerfreundlichkeit“ weitergearbeitet. Ich habe ebenfalls viele Tabellen im Internet herausgesucht und diese fotografiert beziehungsweise habe ich einen Screenshot gemacht, um diesen in meiner Präsentation verwenden zu können.
 
 
-
 ### 12.10.2026:
 Am heutigen Tage habe ich meine Recherche weiter fortgesetzt und mir mit Hilfe von ChatGPT Bilder von den verschiedenen Apps der Passwortmanager geben lassen, damit ich die Benutzerfreundlichkeit der drei Dienste vergleichen kann.
+
+
+### 14.10.2026:
+Heute habe ich versucht mein Problem mit VS Code zu fixen. Am Ende habe ich es dann mit der Hilfe von Herr Lehnen geschafft. Leider musste ich ein neues Repository anlegen. Das heißt, dass circa drei Commits nicht vorhanden sind. Diese waren jedoch eher unwichtig, da in diesen Commits keine wichtigen Änderungen waren. In der restlichen Zeit der Stunde habe ich weiterhin recherchiert, da ich in der nächsten Woche meine Präsentation fertigstellen möchte.
