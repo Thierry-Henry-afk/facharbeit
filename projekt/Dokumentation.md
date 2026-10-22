@@ -39,7 +39,11 @@ Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, dami
 2. Leitfrage und Kriterien+Begründung
 3. Dienste vorstellen (grobe Infos)
 4. Alle vergleichen mit Kriterien
-5. Einen Dienst genau untersuchen
+5. Einen Dienst genau untersuchen (Proton Pass)
 6. genaue Überprüfung von den Kriterien
 7. Quellen
 8. Fazit
+
+
+### 22.10.2026:
+Heute habe ich zu Hause an meinem PC meine Recherche fortgesetzt und bin dabei schon ziemlich weit gekommen. Ich konnte mir meinen ausgewählten Dienst genauer anschauen und viele weitere Informationen dazu sammeln. Außerdem habe ich mir einen Plan für die nächsten Tage erstellt, damit ich spätestens am Montag mit der Präsentation und den weiteren Aufgaben fertig bin.

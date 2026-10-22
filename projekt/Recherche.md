@@ -46,3 +46,33 @@ ProtonPass:![[ProtonPass_Preise.png]]
  eine Tabelle gefunden, die ebenfalls viele Eigenschaften der drei Passwortmanager darstellt und vergleicht. 
  
 ![[Bitwarden_NordPass_ProtonPass.png]]
+
+### Proton Pass:
+Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quantes bei Genf, Schweiz)
+Markteinführung: Sommer 2023
+Sicherheitsarchitektur: Ende-zu-Ende-Verschlüsselung (E2EE)
+Plattformen: Windows, macOS, Linux, IOS, Android und Browser-Er weiterungen für Firefox, Chrome, Brave und Edge
+Diese Informationen habe ich von diesen Webseiten:
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass
+- https://proton.me/de/blog/proton-pass-security-model
+- https://proton.me/de/pass/download
+
+### Sicherheit von Proton Pass: 
+- nutzen eine Ende-zu-Ende-Verschlüsselung (E2EE)
+- gehen nach dem Zero-Knowledge-Prinzip
+- Server liegen ausschließlich in:
+1. der Schweiz
+2. Deutschland
+3. Norwegen
+
+Was ist eine Ende-zu-Ende-Verschlüsselung (E2EE)?
+Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerät und entschlüsselt sie erst auf dem Gerät des Empfängers. Bei „Ende-zu-Ende“ ist ein Ende der Ursprung (dein Gerät) und das andere das Ziel (das Gerät des Empfängers) der Reise deiner Daten.
+
+Was ist das Zero-Knowledge-Prinzip?
+Zero Knowledge bedeutet, dass der Cloud-Dienstleister keine Kenntnis über die in der Cloud gespeicherten Daten und Informationen erlangt, wodurch absolute Vertraulichkeit gewährleistet wird.
+
+Informationen von diesen Webseiten:
+- https://proton.me/de/pass/privacy-policy?utm_source=chatgpt.com
+- https://teamdrive.com/blog-de/zero-knowledge/
+- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end
