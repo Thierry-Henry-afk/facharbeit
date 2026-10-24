@@ -38,13 +38,12 @@ Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, dami
 1. Überschrift
 2. Leitfrage und Kriterien+Begründung
 3. Dienste vorstellen (grobe Infos) (Was ist ein Passwortmanager überhaupt?)
-4. Alle vergleichen mit Kriterien
-5. Einen Dienst genau untersuchen (Proton Pass)
-6. Sicherheit
-7. Benutzerfreundlichkeit
-8. Kosten
-9. Quellen
-10. Fazit
+4. Einen Dienst genau untersuchen (Proton Pass)
+5. Sicherheit
+6. Benutzerfreundlichkeit
+7. Kosten
+8. Quellen
+9. Fazit
 
 
 ### 22.10.2026:
