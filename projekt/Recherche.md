@@ -65,6 +65,9 @@ Diese Informationen habe ich von diesen Webseiten:
 1. der Schweiz
 2. Deutschland
 3. Norwegen
+- man kann sich E-Mail-Aliase erstellen
+- Secure Remote Password (SRP)-Protokoll
+- nutzen Tresorverschlüsselung
 
 Was ist eine Ende-zu-Ende-Verschlüsselung (E2EE)?
 Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerät und entschlüsselt sie erst auf dem Gerät des Empfängers. Bei „Ende-zu-Ende“ ist ein Ende der Ursprung (dein Gerät) und das andere das Ziel (das Gerät des Empfängers) der Reise deiner Daten.
@@ -72,7 +75,20 @@ Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerä
 Was ist das Zero-Knowledge-Prinzip?
 Zero Knowledge bedeutet, dass der Cloud-Dienstleister keine Kenntnis über die in der Cloud gespeicherten Daten und Informationen erlangt, wodurch absolute Vertraulichkeit gewährleistet wird.
 
+Was sind Aliase?
+Diese Funktion ermöglicht es dir, zufällig generierte E-Mail-Adressen zu erstellen, die du anstelle deiner echten E-Mail-Adressen für Online-Konten verwenden kannst. So kannst du einfach einen Alias abschalten, der mit einem Dienst verknüpft ist, der gehackt wurde oder anfängt, dir Spam zu senden, ohne deine anderen Konten zu beeinträchtigen.
+
+Was ist das Secure Remote Password (SRP)-Protokoll?
+Proton Pass verwendet eine verstärkte Version des SRP-Protokolls, um die Anmeldung sicherer zu machen und Man-in-the-Middle-Angriffe zu erschweren. Selbst wenn ein Angreifer die Kommunikation manipuliert, kann er pro Anmeldeversuch nur eine Passwortvermutung überprüfen. Außerdem werden keine Informationen preisgegeben, die dem Passwort gleichwertig sind – selbst dann nicht, wenn Proton kompromittiert wird oder böswillig handelt.
+- Was sind Man-in-the-Middle-Angriffe?
+  Ein Man-in-the-Middle-Angriff (_MITM-Angriff_, auch Machine-in-the-Middle) ist eine Angriffsform, die in Rechnernetzen ihre Anwendung findet. Der Angreifer steht dabei entweder physisch oder logisch zwischen den beiden Kommunikationspartnern, hat dabei mit seinem System vollständige Kontrolle über den Datenverkehr zwischen zwei oder mehreren Netzwerkteilnehmern und kann die Informationen nach Belieben einsehen und sogar manipulieren. Die Absicht des Angreifers besteht darin, dass er den Kommunikationspartnern vortäuscht, das jeweilige Gegenüber zu sein.
+
+Wie funktioniert die Tresorverschlüsselung?
+Proton Pass schützt seine Tresore durch mehrere Verschlüsselungsebenen. Der Benutzerschlüssel wird mithilfe von bcrypt und einem individuellen Salt geschützt. Für jeden Tresor wird ein zufälliger, 32 Byte großer Tresorschlüssel erstellt, der mit dem Benutzerschlüssel verschlüsselt und signiert wird. Dadurch soll nur berechtigten Nutzern der Zugriff ermöglicht werden. Geteilte Tresore werden zusätzlich mit den öffentlichen Schlüsseln der jeweiligen Nutzer geschützt. Die einzelnen Einträge werden anschließend mit AES-GCM und 256-Bit-Verschlüsselung verschlüsselt.
+
 Informationen von diesen Webseiten:
 - https://proton.me/de/pass/privacy-policy?utm_source=chatgpt.com
 - https://teamdrive.com/blog-de/zero-knowledge/
 - https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end
+- https://proton.me/de/blog/proton-pass-security-model
+- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff

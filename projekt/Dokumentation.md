@@ -37,12 +37,14 @@ Heute habe ich versucht mein Problem mit VS Code zu fixen. Am Ende habe ich es d
 Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, damit ich so meine Präsentation gut erarbeiten kann. 
 1. Überschrift
 2. Leitfrage und Kriterien+Begründung
-3. Dienste vorstellen (grobe Infos)
+3. Dienste vorstellen (grobe Infos) (Was ist ein Passwortmanager überhaupt?)
 4. Alle vergleichen mit Kriterien
 5. Einen Dienst genau untersuchen (Proton Pass)
-6. genaue Überprüfung von den Kriterien
-7. Quellen
-8. Fazit
+6. Sicherheit
+7. Benutzerfreundlichkeit
+8. Kosten
+9. Quellen
+10. Fazit
 
 
 ### 22.10.2026:
