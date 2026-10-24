@@ -30,13 +30,13 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
 2. Bitwarden
 3. Proton Pass
 
-Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009) nach einem Vergleich zwischen diesen drei Passwortmanagern gesucht und dort eine Tabelle gefunden, die viele wichtige Eigenschaften der Dienste dort hinterlegt.
+Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009 geöffnet am: 07.10.2026) nach einem Vergleich zwischen diesen drei Passwortmanagern gesucht und dort eine Tabelle gefunden, die viele wichtige Eigenschaften der Dienste dort hinterlegt.
 
 **_Kosten und Funktionen:_** 
 Die Kosten, die man jeweils für die drei verschiedenen Passwortmanager bezahlen muss, stehen auf den jeweiligen Webseiten.
-Bitwarden: https://bitwarden.com/de-de/pricing-all/
-NordPass: https://nordpass.com/de/pricing/
-ProtonPass: https://proton.me/de/pass/pricing
+Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026
+NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026
+ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026
 
 Bitwarden:
 ![[Bitwarden_Preise.png|700]]
@@ -54,12 +54,12 @@ ProtonPass:![[ProtonPass_Preise.png]]
 Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quantes bei Genf, Schweiz)
 Markteinführung: Sommer 2023
 Sicherheitsarchitektur: Ende-zu-Ende-Verschlüsselung (E2EE)
-Plattformen: Windows, macOS, Linux, IOS, Android und Browser-Er weiterungen für Firefox, Chrome, Brave und Edge
+Plattformen: Windows, macOS, Linux, IOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
 Diese Informationen habe ich von diesen Webseiten:
-- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)
-- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass
-- https://proton.me/de/blog/proton-pass-security-model
-- https://proton.me/de/pass/download
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)  geöffnet am: 22.10.2026
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass  geöffnet am: 22.10.2026
+- https://proton.me/de/blog/proton-pass-security-model  geöffnet am: 22.10.2026
+- https://proton.me/de/pass/download  geöffnet am: 22.10.2026
 
 ### Sicherheit von Proton Pass: 
 - nutzen eine Ende-zu-Ende-Verschlüsselung (E2EE)
@@ -89,9 +89,15 @@ Proton Pass verwendet eine verstärkte Version des SRP-Protokolls, um die Anmeld
 Wie funktioniert die Tresorverschlüsselung?
 Proton Pass schützt seine Tresore durch mehrere Verschlüsselungsebenen. Der Benutzerschlüssel wird mithilfe von bcrypt und einem individuellen Salt geschützt. Für jeden Tresor wird ein zufälliger, 32 Byte großer Tresorschlüssel erstellt, der mit dem Benutzerschlüssel verschlüsselt und signiert wird. Dadurch soll nur berechtigten Nutzern der Zugriff ermöglicht werden. Geteilte Tresore werden zusätzlich mit den öffentlichen Schlüsseln der jeweiligen Nutzer geschützt. Die einzelnen Einträge werden anschließend mit AES-GCM und 256-Bit-Verschlüsselung verschlüsselt.
 
+Was bedeutet Elementverschlüsselung?
+
+Bei der Elementverschlüsselung wird jeder gespeicherte Eintrag, zum Beispiel ein Passwort, eine Notiz oder ein Benutzername, einzeln verschlüsselt. Dafür bekommt jeder Eintrag einen eigenen zufälligen Schlüssel. Dieser Schlüssel wird wiederum mit dem Schlüssel des Tresors verschlüsselt.
+
+Der Vorteil: Man kann einzelne Einträge sicher mit anderen teilen, ohne den gesamten Tresor freigeben zu müssen. Dadurch erhalten andere nur Zugriff auf die Daten, die tatsächlich mit ihnen geteilt wurden.
+
 Informationen von diesen Webseiten:
-- https://proton.me/de/pass/privacy-policy?utm_source=chatgpt.com
-- https://teamdrive.com/blog-de/zero-knowledge/
-- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end
-- https://proton.me/de/blog/proton-pass-security-model
-- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff
+- https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026
+- https://teamdrive.com/blog-de/zero-knowledge/geöffnet am: 22.10.2026
+- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026
+- https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026
+- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026

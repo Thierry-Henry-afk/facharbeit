@@ -54,6 +54,43 @@ section.content-slide p {
   position: static;
   margin: 12px 40px;
 }
+
+/* Fünfte Folie: Inhalte kompakt untereinander */
+section.platform-slide h1 {
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  right: 40px;
+  text-align: left;
+  margin: 0;
+}
+
+section.platform-slide h2,
+section.platform-slide h3 {
+  position: static;
+  text-align: left;
+  margin: 15px 40px 8px;
+}
+
+section.platform-slide ol,
+section.platform-slide ul {
+  position: static;
+  margin: 8px 35px;
+  padding-left: 28px;
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+section.platform-slide li {
+  margin-bottom: 6px;
+}
+
+section.platform-slide li p,
+section.platform-slide p {
+  position: static;
+  margin: 5px 0;
+  line-height: 1.2;
+}
 </style>
 
 
@@ -69,7 +106,7 @@ _Warum habe ich diese Leitfrage gewählt?_
 
 ---
 <!-- _class: content-slide -->
-# ProtonPass & NordPass & Bitwarden
+# Proton Pass & NordPass & Bitwarden
 
 
 ---
@@ -85,3 +122,21 @@ _Warum habe ich diese Leitfrage gewählt?_
 3. Kosten
    - **Frage:** *Wie viel kostet der Passwortmanager und welche Funktionen bekomme ich dafür?*
 
+---
+<!-- _class: platform-slide -->
+# Proton Pass
+1. Entwickler:
+   - Schweizer Unternehmen Proton AG
+2. Markteinführung:
+    - Sommer 2023
+3. Sicherheitsarchitektur:
+    - Ende-zu-Ende-Verschlüsselung (E2EE)
+4. Plattformen: 
+    - Windows, macOS, Linux, IOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
+5. Serverstandorte:
+    - Schweiz
+    - Deutschland
+    - Norwegen
+  
+---
+# Sicherheit
