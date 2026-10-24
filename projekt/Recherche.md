@@ -71,6 +71,8 @@ Diese Informationen habe ich von diesen Webseiten:
 - man kann sich E-Mail-Aliase erstellen
 - Secure Remote Password (SRP)-Protokoll
 - nutzen Tresorverschlüsselung
+- Elementverschlüsselung
+- Key Transparency
 
 Was ist eine Ende-zu-Ende-Verschlüsselung (E2EE)?
 Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerät und entschlüsselt sie erst auf dem Gerät des Empfängers. Bei „Ende-zu-Ende“ ist ein Ende der Ursprung (dein Gerät) und das andere das Ziel (das Gerät des Empfängers) der Reise deiner Daten.
@@ -95,9 +97,13 @@ Bei der Elementverschlüsselung wird jeder gespeicherte Eintrag, zum Beispiel ei
 
 Der Vorteil: Man kann einzelne Einträge sicher mit anderen teilen, ohne den gesamten Tresor freigeben zu müssen. Dadurch erhalten andere nur Zugriff auf die Daten, die tatsächlich mit ihnen geteilt wurden.
 
+Was ist Key Transparency?
+Key Transparency ist ein Verfahren, mit dem Messenger-Dienste öffentlich nachprüfbar machen, welchen digitalen Schlüssel sie einem Nutzerkonto zuordnen. Es soll verhindern, dass ein Anbieter heimlich einen falschen Schlüssel unterschiebt und dadurch mitlesen kann.
+
 Informationen von diesen Webseiten:
 - https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026
 - https://teamdrive.com/blog-de/zero-knowledge/geöffnet am: 22.10.2026
 - https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026
 - https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026
 - https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026
+- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026

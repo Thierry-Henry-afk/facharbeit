@@ -140,3 +140,14 @@ _Warum habe ich diese Leitfrage gewählt?_
   
 ---
 # Sicherheit
+ - Ende-zu-Ende-Verschlüsselung (E2EE)
+ - Zero-Knowledge-Prinzip
+ - Serverstandorte
+ - E-Mail-Aliase
+ - Secure Remote Password (SRP)-Protokoll
+ - Tresorverschlüsselung
+ - Elementverschlüsselung
+ - Key Transparency
+
+---
+# Benutzerfreundlichkeit

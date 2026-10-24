@@ -49,3 +49,7 @@ Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, dami
 
 ### 22.10.2026:
 Heute habe ich zu Hause an meinem PC meine Recherche fortgesetzt und bin dabei schon ziemlich weit gekommen. Ich konnte mir meinen ausgewählten Dienst genauer anschauen und viele weitere Informationen dazu sammeln. Außerdem habe ich mir einen Plan für die nächsten Tage erstellt, damit ich spätestens am Montag mit der Präsentation und den weiteren Aufgaben fertig bin.
+
+
+### 24.10.2026:
+Heute habe ich mit meiner Präsentation begonnen und bin schon ziemlich weit gekommen. Dabei habe ich ChatGPT genutzt, um einige Probleme mit der Gestaltung und Formatierung in Visual Studio Code zu lösen. Außerdem habe ich meine Recherche zum Thema Sicherheit abgeschlossen. Den heutigen Bearbeitungstag fand ich etwas schwieriger als die vorherigen, da mir einige Funktionen noch unklar waren. Morgen möchte ich die letzten zwei Kriterien bearbeiten, damit ich mit meiner Arbeit fertig werde.
