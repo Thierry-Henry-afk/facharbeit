@@ -69,7 +69,19 @@ _Warum habe ich diese Leitfrage gewählt?_
 
 ---
 <!-- _class: content-slide -->
+# ProtonPass & NordPass & Bitwarden
+
+
+---
+
+<!-- _class: criteria-slide -->
+
 # Meine Kriterien
-  1. Sicherheit
-  2. Benutzerfreundlichkeit
-  3. Kosten
+
+1. Sicherheit
+   - **Frage:** *Wie sicher schützt der Passwortmanager meine gespeicherten Passwörter?*
+2. Benutzerfreundlichkeit
+   - **Frage:** *Wie einfach lässt sich der Passwortmanager bedienen?*
+3. Kosten
+   - **Frage:** *Wie viel kostet der Passwortmanager und welche Funktionen bekomme ich dafür?*
+
