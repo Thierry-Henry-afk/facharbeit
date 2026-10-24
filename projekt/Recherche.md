@@ -1,3 +1,6 @@
+### Was ist ein Passwortmanager?
+Ein Passwortmanager ist ein Cybersicherheitstool, das Passwörter speichert, automatisch ausfüllt und sichere Passwörter für dich generiert. Passwortmanager reduzieren die Anzahl der verschiedenen, komplexen Passwörter, die du dir in deinem digitalen Alltag merken musst, auf ein einziges – und zwar auf das Masterpasswort für deinen Passwortmanager. 
+Quelle: https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE vom 24.10.2026
 ### Meine Leitfrage:
 Macht ein Passwortmanager meine Passwörter sicherer, oder entstehen dadurch neue Risiken?
 
