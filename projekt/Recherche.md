@@ -142,3 +142,16 @@ Informationen von diesen Webseiten:
 - https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026
 
 ### Benutzerfreundlichkeit von Proton Pass:
+
+Die Proton Pass Desktop-App ist in drei Bereiche unterteilt.
+![[proton_pass_desktop_app.webp]]
+
+Auf der linken Seite können Sie auf Ihre verschiedenen Tresore zugreifen – die Verzeichnisse für Ihre verschiedenen **Einträge** (Einträge ist der Begriff für Anmeldungen, Kreditkarten, Notizen usw.) – sowie auf Ihren **Papierkorb** und verschiedene weitere Optionen.
+
+Tresore können verwendet werden, um Einträge zu organisieren – im obigen Beispiel haben wir einen Tresor für persönliche Einträge und einen für berufliche Einträge.
+
+Im mittleren Bereich findest du eine Liste aller Einträge im ausgewählten Tresor.
+
+Der Bereich auf der rechten Seite zeigt Ihnen Details zu einem ausgewählten Eintrag.
+
+Quelle (auch von dem Bild): https://proton.me/de/support/how-to-use-proton-pass-desktop-app geöffnet am 25.10.2026
