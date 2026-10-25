@@ -139,7 +139,34 @@ section.usability-slide .usability-image img {
   object-fit: contain;
   border-radius: 8px;
 }
+section.sources-slide {
+  padding: 10px 15px;
+}
 
+section.sources-slide table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 19px;
+  line-height: 1.35;
+}
+
+section.sources-slide th,
+section.sources-slide td {
+  padding: 12px 10px;
+  vertical-align: top;
+  overflow-wrap: anywhere;
+}
+
+section.sources-slide th:first-child,
+section.sources-slide td:first-child {
+  width: 21%;
+}
+
+section.sources-slide h1 {
+  font-size: 36px;
+  margin: 0 0 18px;
+}
 </style>
 
 
@@ -241,39 +268,17 @@ _Passwortmanager machen Passwörter sicherer, da sie starke Passwörter erzeugen
 **Vielen Dank für Ihre Aufmerksamkeit! Ich hoffe, Ihnen hat meine Präsentation zum Thema Passwortmanager gefallen.**
 
 ---
-1. Folie: 
-   - Hintergrundbild: gemacht mit [ChatGPT](https://chatgpt.com/)
-2. Folie:
-   - [Was ist ein Passwortmanager?](https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE) vom 24.10.2026
-3. Folie:
-- NordPass:
-   - [Nutzer weltweit](https://nordpass.com/de/password-manager/offer/) geöffnet am 25.10.2026
-   - [Verschlüsselung](https://nordpass.com/de/features/xchacha20-encryption/) geöffnet am 25.10.2026
-   - [Kostenloses Paket](https://nordpass.com/de/plans/) geöffnet am 25.10.2026
-- Bitwarden:
-   -  [Nutzer weltweit](https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html) geöffnet am 25.10.2026
-   -   [Verschlüsselung](https://bitwarden.com/de-de/help/what-encryption-is-used/) geöffnet am 25.10.2026
-   -   [Sitz](https://bitwarden.com/de-de/about/) geöffnet am 25.10.2026
-   -   [Kostenloses Konto](https://bitwarden.com/go/start-free/) geöffnet am 25.10.2026
-- Proton Pass:
-   - [Nutzer weltweit](https://proton.me/de/pass) geöffnet am 25.10.2026
-   - [Verschlüsselung](https://proton.me/de/pass/security) geöffnet am 25.10.2026
-   - [Sitz](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) geöffnet am 25.10.2026
-   - [Kostenloses Konto](https://proton.me/de/pass/pricing) geöffnet am 25.10.2026
-5. Folie:
-   - [Entwickler](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller))  geöffnet am: 22.10.2026
-   - [Markteinführung](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass)  geöffnet am: 22.10.2026
-   - [Sicherheitsarchitektur](https://proton.me/de/blog/proton-pass-security-model)  geöffnet am: 22.10.2026
-   - [Plattformen](https://proton.me/de/pass/download)  geöffnet am: 22.10.2026
-6. Folie:
-  - [Serverstandorte](https://proton.me/de/pass/privacy-policy?utm_source=chatgp) geöffnet am: 22.10.2026
-  - [Zero-Knowledge](https://teamdrive.com/blog-de/zero-knowledge/) geöffnet am: 22.10.2026
-  - [Ende-zu-Ende-Verschlüsselung](https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end) geöffnet am: 22.10.2026
-  - [Sicherheitsmodelle](https://proton.me/de/blog/proton-pass-security-model) geöffnet am: 24.10.2026
-  - [Man-in-the-Middle-Angriff](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff) geöffnet am: 24.10.2026
-  - [Key Transparency](https://www.synthszr.com/de/glossary/key-transparency) geöffnet am 24.10.2026
-7. Folie:
-   - [Desktop-App von Proton Pass](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) geöffnet am 25.10.2026
-   - Bild: [Desktop-App Bild](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) geöffnet am 25.10.2026
-8. Folie:
-   - [Preis Proton Pass](https://proton.me/de/pass/pricing) vom 07.10.2026
+<!-- _class: sources-slide -->
+| Folie / Thema | Quellen |
+|---|---|
+| **Folie 1 – Titelbild** | [ChatGPT](https://chatgpt.com/) |
+| **Folie 2 – Grundlagen** | [Passwortmanager](https://nordvpn.com/de/password-manager/) |
+| **Folie 3 – NordPass** | [Nutzerzahlen](https://nordpass.com/de/password-manager/offer/) · [Verschlüsselung](https://nordpass.com/de/features/xchacha20-encryption/) · [Kosten](https://nordpass.com/de/plans/) |
+| **Folie 3 – Bitwarden** | [Nutzerzahlen](https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html) · [Verschlüsselung](https://bitwarden.com/de-de/help/what-encryption-is-used/) · [Sitz](https://bitwarden.com/de-de/about/) · [Gratis-Konto](https://bitwarden.com/go/start-free/) |
+| **Folie 3 – Proton Pass** | [Nutzerzahlen](https://proton.me/de/pass) · [Sicherheit](https://proton.me/de/pass/security) · [Sitz](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) · [Kosten](https://proton.me/de/pass/pricing) |
+| **Folie 5 – Überblick von Proton Pass** | [Entwickler und Start](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) · [Sicherheitsmodell](https://proton.me/de/blog/proton-pass-security-model) · [Plattformen](https://proton.me/de/pass/download) · [Serverstandorte](https://proton.me/de/pass/privacy-policy)|
+| **Folie 6 – Sicherheit** | [Serverstandorte](https://proton.me/de/pass/privacy-policy) · [Zero-Knowledge](https://teamdrive.com/blog-de/zero-knowledge/) · [Ende-zu-Ende-Verschlüsselung](https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end) · [Man-in-the-Middle](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff) · [Key Transparency](https://www.synthszr.com/de/glossary/key-transparency) |
+| **Folie 7 – Benutzerfreundlichkeit** | [Desktop-App und Bild](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) |
+| **Folie 8 – Preise** | [Proton Pass Preise](https://proton.me/de/pass/pricing) |
+
+
