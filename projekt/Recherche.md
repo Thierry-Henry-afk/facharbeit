@@ -155,3 +155,16 @@ Im mittleren Bereich findest du eine Liste aller Einträge im ausgewählten Tres
 Der Bereich auf der rechten Seite zeigt Ihnen Details zu einem ausgewählten Eintrag.
 
 Quelle (auch von dem Bild): https://proton.me/de/support/how-to-use-proton-pass-desktop-app geöffnet am 25.10.2026
+
+### Kosten von Proton Pass (im Monat):
+_Privates Konto:_ 
+![[facharbeit/projekt/bilder/ProtonPass_Preise.png]]
+
+Unternehmen:
+![[proton_pass_preis_unternehmen.png]]
+
+Ich werde nur den Preis für die Privatperson benutzen.
+
+Quelle (von dem Bild): 
+1. Bild: https://proton.me/de/pass/pricing vom 07.10.2026
+2. Bild: https://proton.me/de/business/pass/pricing geöffnet am 25.10.2026

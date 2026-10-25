@@ -99,6 +99,47 @@ section.platform-slide p {
   margin: 5px 0;
   line-height: 1.2;
 }
+
+section.usability-slide h1 {
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  right: 40px;
+  text-align: left;
+  margin: 0;
+}
+
+section.usability-slide h1 {
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  right: 40px;
+  text-align: left;
+  margin: 0;
+}
+
+section.usability-slide .usability-layout {
+  display: grid;
+  grid-template-columns: 0.6fr 1.8fr;
+  gap: 15px;
+  align-items: center;
+  margin: 65px 25px 10px;
+}
+
+section.usability-slide .usability-image {
+  grid-column: 1 / -1;
+  width: 100%;
+  text-align: center;
+}
+
+section.usability-slide .usability-image img {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
 </style>
 
 
@@ -165,4 +206,28 @@ _Warum habe ich diese Leitfrage gewählt?_
  - Key Transparency
 
 ---
+<!-- _class: usability-slide -->
+
 # Benutzerfreundlichkeit
+- **Proton Pass Desktop-App ist in drei Bereiche unterteilt.**
+  
+  
+<div class="usability-layout">
+  <div></div>
+
+  <div class="usability-image">
+
+  ![Proton Pass Oberfläche](bilder/proton_pass_desktop_app.webp)
+
+  </div>
+</div>
+  
+
+---
+# Kosten 
+| Kategorie | Preis | Wichtigste Funktionen |
+|---|---:|---|
+| **Proton Free** | 0 €/Monat | Unbegrenzte Logins und Geräte, Passwortgenerator, 10 E-Mail-Aliasse, Passkey-Unterstützung |
+| **Pass Plus** | 4,99 €/Monat | Unbegrenzte Aliasse, 2FA, Dark-Web-Überwachung, Tresore teilen, Notfallzugriff |
+| **Pass Family** | 6,99 €/Monat | Pass-Plus-Funktionen für bis zu 6 Personen, Administrationskonsole zur Verwaltung der Familie |
+| **Proton Unlimited** | 12,99 €/Monat | Proton Pass, Proton Mail, Proton Calendar, Proton VPN und Proton Drive |
