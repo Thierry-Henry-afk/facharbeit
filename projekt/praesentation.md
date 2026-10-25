@@ -241,7 +241,8 @@ _Passwortmanager machen Passwörter sicherer, da sie starke Passwörter erzeugen
 **Vielen Dank für Ihre Aufmerksamkeit! Ich hoffe, Ihnen hat meine Präsentation zum Thema Passwortmanager gefallen.**
 
 ---
-# Quellen
+1. Folie: 
+   - Hintergrundbild: gemacht mit [ChatGPT](https://chatgpt.com/)
 2. Folie:
    - [Was ist ein Passwortmanager?](https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE) vom 24.10.2026
 3. Folie:
@@ -259,9 +260,20 @@ _Passwortmanager machen Passwörter sicherer, da sie starke Passwörter erzeugen
    - [Verschlüsselung](https://proton.me/de/pass/security) geöffnet am 25.10.2026
    - [Sitz](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) geöffnet am 25.10.2026
    - [Kostenloses Konto](https://proton.me/de/pass/pricing) geöffnet am 25.10.2026
-5. Folie
+5. Folie:
    - [Entwickler](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller))  geöffnet am: 22.10.2026
    - [Markteinführung](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass)  geöffnet am: 22.10.2026
    - [Sicherheitsarchitektur](https://proton.me/de/blog/proton-pass-security-model)  geöffnet am: 22.10.2026
    - [Plattformen](https://proton.me/de/pass/download)  geöffnet am: 22.10.2026
-6. Folie
+6. Folie:
+  - [Serverstandorte](https://proton.me/de/pass/privacy-policy?utm_source=chatgp) geöffnet am: 22.10.2026
+  - [Zero-Knowledge](https://teamdrive.com/blog-de/zero-knowledge/) geöffnet am: 22.10.2026
+  - [Ende-zu-Ende-Verschlüsselung](https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end) geöffnet am: 22.10.2026
+  - [Sicherheitsmodelle](https://proton.me/de/blog/proton-pass-security-model) geöffnet am: 24.10.2026
+  - [Man-in-the-Middle-Angriff](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff) geöffnet am: 24.10.2026
+  - [Key Transparency](https://www.synthszr.com/de/glossary/key-transparency) geöffnet am 24.10.2026
+7. Folie:
+   - [Desktop-App von Proton Pass](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) geöffnet am 25.10.2026
+   - Bild: [Desktop-App Bild](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) geöffnet am 25.10.2026
+8. Folie:
+   - [Preis Proton Pass](https://proton.me/de/pass/pricing) vom 07.10.2026

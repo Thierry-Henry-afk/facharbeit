@@ -135,7 +135,7 @@ Key Transparency ist ein Verfahren, mit dem Messenger-Dienste öffentlich nachpr
 
 Informationen von diesen Webseiten:
 - https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026
-- https://teamdrive.com/blog-de/zero-knowledge/geöffnet am: 22.10.2026
+- https://teamdrive.com/blog-de/zero-knowledge/ geöffnet am: 22.10.2026
 - https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026
 - https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026
 - https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026
