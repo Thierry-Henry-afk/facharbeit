@@ -53,3 +53,8 @@ Heute habe ich zu Hause an meinem PC meine Recherche fortgesetzt und bin dabei s
 
 ### 24.10.2026:
 Heute habe ich mit meiner Präsentation begonnen und bin schon ziemlich weit gekommen. Dabei habe ich ChatGPT genutzt, um einige Probleme mit der Gestaltung und Formatierung in Visual Studio Code zu lösen. Außerdem habe ich meine Recherche zum Thema Sicherheit abgeschlossen. Den heutigen Bearbeitungstag fand ich etwas schwieriger als die vorherigen, da mir einige Funktionen noch unklar waren. Morgen möchte ich die letzten zwei Kriterien bearbeiten, damit ich mit meiner Arbeit fertig werde.
+
+
+### 25.10.2026:
+Heute habe ich meine Recherche beendet und konnte so auch meine Präsentation fertigstellen. Ich fand es heute ein wenig schwieriger, weil ich zum einen bei der letzten Folie nicht genügend Platz hatte und zum anderen vergessen hatte, wie man eine Tabelle erstellt. Bei diesen Sachen habe ich mir Hilfe von ChatGPT geholt, damit ich weiterarbeiten konnte.
+Letztendlich konnte ich meine Arbeit vervollständigen und habe zum Schluss nur noch meine Dokumentation geschrieben. Außerdem habe ich mir vorgenommen, dass meine Mutter morgen meine ganzen Sachen einmal Korrektur liest, damit ich anschließend meine Präsentation in eine PDF-Datei umwandeln kann.
