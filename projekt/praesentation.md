@@ -186,7 +186,7 @@ _Warum habe ich diese Leitfrage gewählt?_
 
 || NordPass | Bitwarden | Proton Pass |
 |----------|----------|----------|----------|
-| Nutzer weltweit  | über 11 Millionen Nutzer & über 11.500 Unternehmen  | 15 Millionen Benutzer & über 80.000 Unternehmen   | Über 100 Millionen Menschen und Unternehmen  |
+| Nutzer weltweit  | über 11 Millionen Nutzer & über 11.500 Unternehmen  | 15 Millionen Benutzer & über 80.000 Unternehmen   | Über 100 Millionen Nutzer und Unternehmen  |
 | Verschlüsselung  | nutzt die XChaCha20-Verschlüsselung   |  verwendet AES-CBC 256-Bit-Verschlüsselung für Ihre Tresor-Daten   | 256-Bit-AES-GCM-Tresorverschlüsselung   |
 | Kostenlos für Privatpersonen? | Kostenloses Paket für Privatpersonen  | Gratis Account für Privatpersonen   |  Kostenloses Paket für Privatpersonen |
 | Sitz | Genaue Anschrift nicht gefunden| Santa Barbara, Kalifornien, USA | Genf (Plan-les-Ouates), Schweiz  |
@@ -215,7 +215,7 @@ _Warum habe ich diese Leitfrage gewählt?_
 3. Sicherheitsarchitektur:
     - Ende-zu-Ende-Verschlüsselung (E2EE)
 4. Plattformen: 
-    - Windows, macOS, Linux, IOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
+    - Windows, macOS, Linux, iOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
 5. Serverstandorte:
     - Schweiz
     - Deutschland
