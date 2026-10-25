@@ -32,14 +32,38 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
 
 Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009 geöffnet am: 07.10.2026) nach einem Vergleich zwischen diesen drei Passwortmanagern gesucht und dort eine Tabelle gefunden, die viele wichtige Eigenschaften der Dienste dort hinterlegt.
 
-1. NordPass
+**NordPass:**
    - 11 Millionen Nutzer
    - über 11.500 Unternehmen
-2. Bitwarden
+   -  nutzen die XChaCha20-Verschlüsselung
+   - (16192 Coastal Highway, Lewes, Delaware 19958, County of Sussex, USA (WICHTIG: Ich habe keine genauen Angaben dazu gefunden. Ich habe die Anschrift aus dem Impressum genommen.))
+   - Kostenloses Paket für Privatpersonen
+Quellen: 
+- https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026
+- https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 25.10.2026
+- https://nordpass.com/de/impressum/ geöffnet am 25.10.2026
+- https://nordpass.com/de/plans/ geöffnet am 25.10.2026
+ **Bitwarden:**
    - 15 Millionen Benutzer
    - über 80.000 Unternehmen
-3. Proton Pass
+   - Bitwarden verwendet AES-CBC 256-Bit-Verschlüsselung für Ihre Tresor-Daten
+   - Santa Barbara, Kalifornien, USA
+   - Gratis Account für Privatpersonen
+Quellen:
+- https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026
+- https://bitwarden.com/de-de/help/what-encryption-is-used/ geöffnet am 25.10.2026
+- https://bitwarden.com/de-de/about/ geöffnet am 25.10.2026
+- https://bitwarden.com/go/start-free/ geöffnet am 25.10.2026
+**Proton Pass:**
    - Über 100 Millionen Menschen und Unternehmen
+   - 256-Bit-AES-GCM-Tresorverschlüsselung
+   - Genf (Plan-les-Ouates), Schweiz 
+   - Kostenloses Paket für Privatpersonen
+Quellen:
+- https://proton.me/de/pass geöffnet am 25.10.2026
+- https://proton.me/de/pass/security geöffnet am 25.10.2026
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller) geöffnet am 25.10.2026
+- https://proton.me/de/pass/pricing geöffnet am 25.10.2026
 
 **_Kosten und Funktionen:_** 
 Die Kosten, die man jeweils für die drei verschiedenen Passwortmanager bezahlen muss, stehen auf den jeweiligen Webseiten.
@@ -59,7 +83,7 @@ ProtonPass:![[ProtonPass_Preise.png]]
  
 ![[Bitwarden_NordPass_ProtonPass.png]]
 
-### Proton Pass:
+## Proton Pass:
 Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quantes bei Genf, Schweiz)
 Markteinführung: Sommer 2023
 Sicherheitsarchitektur: Ende-zu-Ende-Verschlüsselung (E2EE)
@@ -116,3 +140,5 @@ Informationen von diesen Webseiten:
 - https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026
 - https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026
 - https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026
+
+### Benutzerfreundlichkeit von Proton Pass:
