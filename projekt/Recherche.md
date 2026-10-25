@@ -32,6 +32,15 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
 
 Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009 geöffnet am: 07.10.2026) nach einem Vergleich zwischen diesen drei Passwortmanagern gesucht und dort eine Tabelle gefunden, die viele wichtige Eigenschaften der Dienste dort hinterlegt.
 
+1. NordPass
+   - 11 Millionen Nutzer
+   - über 11.500 Unternehmen
+2. Bitwarden
+   - 15 Millionen Benutzer
+   - über 80.000 Unternehmen
+3. Proton Pass
+   - Über 100 Millionen Menschen und Unternehmen
+
 **_Kosten und Funktionen:_** 
 Die Kosten, die man jeweils für die drei verschiedenen Passwortmanager bezahlen muss, stehen auf den jeweiligen Webseiten.
 Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026
