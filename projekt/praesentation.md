@@ -231,3 +231,37 @@ _Warum habe ich diese Leitfrage gewählt?_
 | **Pass Plus** | 4,99 €/Monat | Unbegrenzte Aliasse, 2FA, Dark-Web-Überwachung, Tresore teilen, Notfallzugriff |
 | **Pass Family** | 6,99 €/Monat | Pass-Plus-Funktionen für bis zu 6 Personen, Administrationskonsole zur Verwaltung der Familie |
 | **Proton Unlimited** | 12,99 €/Monat | Proton Pass, Proton Mail, Proton Calendar, Proton VPN und Proton Drive |
+
+---
+# Fazit
+
+## Antwort auf meine Leitfrage:
+_Passwortmanager machen Passwörter sicherer, da sie starke Passwörter erzeugen und verschlüsselt speichern können. Allerdings entsteht ein Risiko, wenn man das Masterpasswort vergisst oder es in falsche Hände gerät. Deshalb ist ein Passwortmanager wie Proton Pass sinnvoll, solange man ihn richtig nutzt und sein Masterpasswort gut schützt._
+
+**Vielen Dank für Ihre Aufmerksamkeit! Ich hoffe, Ihnen hat meine Präsentation zum Thema Passwortmanager gefallen.**
+
+---
+# Quellen
+2. Folie:
+   - [Was ist ein Passwortmanager?](https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE) vom 24.10.2026
+3. Folie:
+- NordPass:
+   - [Nutzer weltweit](https://nordpass.com/de/password-manager/offer/) geöffnet am 25.10.2026
+   - [Verschlüsselung](https://nordpass.com/de/features/xchacha20-encryption/) geöffnet am 25.10.2026
+   - [Kostenloses Paket](https://nordpass.com/de/plans/) geöffnet am 25.10.2026
+- Bitwarden:
+   -  [Nutzer weltweit](https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html) geöffnet am 25.10.2026
+   -   [Verschlüsselung](https://bitwarden.com/de-de/help/what-encryption-is-used/) geöffnet am 25.10.2026
+   -   [Sitz](https://bitwarden.com/de-de/about/) geöffnet am 25.10.2026
+   -   [Kostenloses Konto](https://bitwarden.com/go/start-free/) geöffnet am 25.10.2026
+- Proton Pass:
+   - [Nutzer weltweit](https://proton.me/de/pass) geöffnet am 25.10.2026
+   - [Verschlüsselung](https://proton.me/de/pass/security) geöffnet am 25.10.2026
+   - [Sitz](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) geöffnet am 25.10.2026
+   - [Kostenloses Konto](https://proton.me/de/pass/pricing) geöffnet am 25.10.2026
+5. Folie
+   - [Entwickler](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller))  geöffnet am: 22.10.2026
+   - [Markteinführung](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass)  geöffnet am: 22.10.2026
+   - [Sicherheitsarchitektur](https://proton.me/de/blog/proton-pass-security-model)  geöffnet am: 22.10.2026
+   - [Plattformen](https://proton.me/de/pass/download)  geöffnet am: 22.10.2026
+6. Folie
