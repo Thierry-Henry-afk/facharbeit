@@ -55,7 +55,15 @@ section.content-slide p {
   margin: 12px 40px;
 }
 
-/* Fünfte Folie: Inhalte kompakt untereinander */
+section.content-slide table {
+  font-size: 92%;
+}
+
+section.content-slide th,
+section.content-slide td {
+  padding: 3px;
+}
+
 section.platform-slide h1 {
   position: absolute;
   top: 25px;
