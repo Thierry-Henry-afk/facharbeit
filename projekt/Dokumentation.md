@@ -67,8 +67,8 @@ Heute habe ich mit meiner Präsentation begonnen und bin schon ziemlich weit gek
 Quellen:
 - https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE vom 24.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordVPN
 - https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton 
-- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026; Titel: Man-in-the-Middle-Angriff; Unternehmen / Anbieter: Wikipedia
-- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026; Titel: Key Transparency; Unternehmen / Anbieter: Synthszr
+
+
 ### 25.10.2026:
 Heute habe ich meine Recherche beendet und konnte so auch meine Präsentation fertigstellen. Ich fand es heute ein wenig schwieriger, weil ich zum einen auf der letzten Folie nicht genügend Platz hatte und zum anderen vergessen hatte, wie man eine Tabelle erstellt. Bei diesen Sachen habe ich mir Hilfe von ChatGPT geholt, damit ich weiterarbeiten konnte.
 Letztendlich konnte ich meine Arbeit vervollständigen und habe zum Schluss nur noch meine Dokumentation geschrieben. Außerdem habe ich mir vorgenommen, dass ChatGPT morgen meine gesamten Unterlagen einmal Korrektur liest, damit ich anschließend meine Präsentation in eine PDF-Datei umwandeln kann.

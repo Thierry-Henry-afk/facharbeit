@@ -34,7 +34,6 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
    - 11 Millionen Nutzer
    - über 11.500 Unternehmen
    -  nutzen die XChaCha20-Verschlüsselung
-   - Hinweis: Da ich keine genaue Angabe zum Standort finden konnte, lasse ich dies bei NordPass aus.
    - Kostenloses Paket für Privatpersonen
 Quellen: 
 - https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordPass
@@ -44,7 +43,6 @@ Quellen:
    - 15 Millionen Benutzer
    - über 80.000 Unternehmen
    - Bitwarden verwendet AES-CBC 256-Bit-Verschlüsselung für die Tresor-Daten
-   - Santa Barbara, Kalifornien, USA
    - Kostenloser Account für Privatpersonen
 Quellen:
 - https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026; Titel: Bitwarden Surpasses 15 Million Users; Unternehmen / Anbieter: Yahoo Finance
@@ -54,7 +52,6 @@ Quellen:
 **Proton Pass:**
    - Über 100 Millionen Menschen und Unternehmen
    - 256-Bit-AES-GCM-Tresorverschlüsselung
-   - Genf (Plan-les-Ouates), Schweiz 
    - Kostenloses Paket für Privatpersonen
 Quellen:
 - https://proton.me/de/pass geöffnet am 25.10.2026; Titel: Proton Pass: Kostenloser Passwortmanager mit Identitätsschutz; Unternehmen / Anbieter: Proton
@@ -99,10 +96,9 @@ Diese Informationen habe ich von diesen Webseiten:
 2. Deutschland
 3. Norwegen
 - man kann sich E-Mail-Aliase erstellen
-- Secure Remote Password (SRP)-Protokoll
 - Tresorverschlüsselung
 - Elementverschlüsselung
-- Key Transparency
+
 
 Was ist Ende-zu-Ende-Verschlüsselung (E2EE)?
 Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerät und entschlüsselt sie erst auf dem Gerät des Empfängers. Bei „Ende-zu-Ende“ ist ein Ende der Ursprung (dein Gerät) und das andere das Ziel (das Gerät des Empfängers) der Reise deiner Daten.
@@ -113,11 +109,6 @@ Zero-Knowledge bedeutet, dass der Cloud-Dienstleister keine Kenntnis über die i
 Was sind Aliase?
 Diese Funktion ermöglicht es dir, zufällig generierte E-Mail-Adressen zu erstellen, die du anstelle deiner echten E-Mail-Adressen für Online-Konten verwenden kannst. So kannst du einfach einen Alias abschalten, der mit einem Dienst verknüpft ist, der gehackt wurde oder anfängt, dir Spam zu senden, ohne deine anderen Konten zu beeinträchtigen.
 
-Was ist das Secure Remote Password (SRP)-Protokoll?
-Proton Pass verwendet eine verstärkte Version des SRP-Protokolls, um die Anmeldung sicherer zu machen und Man-in-the-Middle-Angriffe zu erschweren. Selbst wenn ein Angreifer die Kommunikation manipuliert, kann er pro Anmeldeversuch nur eine Passwortvermutung überprüfen. Außerdem werden keine Informationen preisgegeben, die dem Passwort gleichwertig sind – selbst dann nicht, wenn Proton kompromittiert wird oder böswillig handelt.
-- Was sind Man-in-the-Middle-Angriffe?
-  Ein Man-in-the-Middle-Angriff (_MITM-Angriff_, auch Machine-in-the-Middle) ist eine Angriffsform, die in Rechnernetzen ihre Anwendung findet. Der Angreifer steht dabei entweder physisch oder logisch zwischen den beiden Kommunikationspartnern, hat dabei mit seinem System vollständige Kontrolle über den Datenverkehr zwischen zwei oder mehreren Netzwerkteilnehmern und kann die Informationen nach Belieben einsehen und sogar manipulieren. Die Absicht des Angreifers besteht darin, dass er den Kommunikationspartnern vortäuscht, das jeweilige Gegenüber zu sein.
-
 Wie funktioniert die Tresorverschlüsselung?
 Proton Pass schützt seine Tresore durch mehrere Verschlüsselungsebenen. Der Benutzerschlüssel wird mithilfe von bcrypt und einem individuellen Salt geschützt. Für jeden Tresor wird ein zufälliger, 32 Byte großer Tresorschlüssel erstellt, der mit dem Benutzerschlüssel verschlüsselt und signiert wird. Dadurch soll nur berechtigten Nutzern der Zugriff ermöglicht werden. Geteilte Tresore werden zusätzlich mit den öffentlichen Schlüsseln der jeweiligen Nutzer geschützt. Die einzelnen Einträge werden anschließend mit AES-GCM und 256-Bit-Verschlüsselung verschlüsselt.
 
@@ -127,16 +118,13 @@ Bei der Elementverschlüsselung wird jeder gespeicherte Eintrag, zum Beispiel ei
 
 Der Vorteil: Man kann einzelne Einträge sicher mit anderen teilen, ohne den gesamten Tresor freigeben zu müssen. Dadurch erhalten andere nur Zugriff auf die Daten, die tatsächlich mit ihnen geteilt wurden.
 
-Was ist Key Transparency?
-Key Transparency ist ein Verfahren, mit dem Messenger-Dienste öffentlich nachprüfbar machen, welchen digitalen Schlüssel sie einem Nutzerkonto zuordnen. Es soll verhindern, dass ein Anbieter heimlich einen falschen Schlüssel unterschiebt und dadurch mitlesen kann.
 
 Informationen von diesen Webseiten:
 - https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026; Titel: Datenschutzrichtlinie; Unternehmen / Anbieter: Proton
 - https://teamdrive.com/blog-de/zero-knowledge/ geöffnet am: 22.10.2026; Titel: Zero-Knowledge; Unternehmen / Anbieter: TeamDrive
 - https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026; Titel: Was ist Ende-zu-Ende-Verschlüsselung?; Unternehmen / Anbieter: Proton
 - https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton 
-- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026; Titel: Man-in-the-Middle-Angriff; Unternehmen / Anbieter: Wikipedia
-- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026; Titel: Key Transparency; Unternehmen / Anbieter: Synthszr
+
 
 ### Benutzerfreundlichkeit von Proton Pass:
 
@@ -181,7 +169,7 @@ Wir möchten, dass unser Produkt möglichst langlebig und die Sicherheit unserer
 
 
 Was ist die AES-Verschlüsselung?
-Die AES-Verschlüsselung ist ein weit verbreiteter Algorithmus oder eine sogenannte Blockchiffre, um Wifi-, Browser-Verbindungen und Daten zu verschlüsseln. In diesem Ratgeber-Artikel versuchen wir, das mathematisch komplexe Thema AES-Verschlüsselung möglichst umfassend, aber auch so einfach darzustellen, dass jede und jeder es verstehen kann.
+Die AES-Verschlüsselung ist ein weit verbreiteter Algorithmus oder eine sogenannte Blockchiffre, um Wifi-, Browser-Verbindungen und Daten zu verschlüsseln.
 
 Das Wichtigste in Kürze:
 - **Definition:** AES (Advanced Encryption Standard) ist ein symmetrisches Verschlüsselungsverfahren, bei dem derselbe Schlüssel für die Ver- und Entschlüsselung verwendet wird.

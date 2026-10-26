@@ -189,7 +189,6 @@ _Warum habe ich diese Leitfrage gewählt?_
 | Nutzer weltweit  | über 11 Millionen Nutzer & über 11.500 Unternehmen  | 15 Millionen Benutzer & über 80.000 Unternehmen   | Über 100 Millionen Nutzer und Unternehmen  |
 | Verschlüsselung  | nutzt die XChaCha20-Verschlüsselung   |  verwendet AES-CBC 256-Bit-Verschlüsselung für Ihre Tresor-Daten   | 256-Bit-AES-GCM-Tresorverschlüsselung   |
 | Kostenlos für Privatpersonen? | Kostenloses Paket für Privatpersonen  | Kostenloses Konto für Privatpersonen   |  Kostenloses Paket für Privatpersonen |
-| Sitz | Genaue Anschrift nicht gefunden| Santa Barbara, Kalifornien, USA | Genf (Plan-les-Ouates), Schweiz  |
 
 
 ---
@@ -227,10 +226,9 @@ _Warum habe ich diese Leitfrage gewählt?_
  - Zero-Knowledge-Prinzip
  - Serverstandorte
  - E-Mail-Aliase
- - Secure Remote Password (SRP)-Protokoll
  - Tresorverschlüsselung
  - Elementverschlüsselung
- - Key Transparency
+ 
 
 ---
 <!-- _class: usability-slide -->
@@ -274,10 +272,10 @@ _Passwortmanager machen Passwörter sicherer, da sie starke Passwörter erzeugen
 | **Folie 1 – Titelbild** | [ChatGPT](https://chatgpt.com/) |
 | **Folie 2 – Grundlagen** | [Passwortmanager](https://nordvpn.com/de/password-manager/) |
 | **Folie 3 – NordPass** | [Nutzerzahlen](https://nordpass.com/de/password-manager/offer/) · [Verschlüsselung](https://nordpass.com/de/features/xchacha20-encryption/) · [Kosten](https://nordpass.com/de/plans/) |
-| **Folie 3 – Bitwarden** | [Nutzerzahlen](https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html) · [Verschlüsselung](https://bitwarden.com/de-de/help/what-encryption-is-used/) · [Sitz](https://bitwarden.com/de-de/about/) · [Gratis-Konto](https://bitwarden.com/go/start-free/) |
+| **Folie 3 – Bitwarden** | [Nutzerzahlen](https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html) · [Verschlüsselung](https://bitwarden.com/de-de/help/what-encryption-is-used/) ·  [Gratis-Konto](https://bitwarden.com/go/start-free/) |
 | **Folie 3 – Proton Pass** | [Nutzerzahlen](https://proton.me/de/pass) · [Sicherheit](https://proton.me/de/pass/security) · [Sitz](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) · [Kosten](https://proton.me/de/pass/pricing) |
 | **Folie 5 – Überblick von Proton Pass** | [Entwickler und Start](https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)) · [Sicherheitsmodell](https://proton.me/de/blog/proton-pass-security-model) · [Plattformen](https://proton.me/de/pass/download) · [Serverstandorte](https://proton.me/de/pass/privacy-policy)|
-| **Folie 6 – Sicherheit** | [Serverstandorte](https://proton.me/de/pass/privacy-policy) · [Zero-Knowledge](https://teamdrive.com/blog-de/zero-knowledge/) · [Ende-zu-Ende-Verschlüsselung](https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end) · [Man-in-the-Middle](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff) · [Key Transparency](https://www.synthszr.com/de/glossary/key-transparency) |
+| **Folie 6 – Sicherheit** | [Serverstandorte](https://proton.me/de/pass/privacy-policy) · [Zero-Knowledge](https://teamdrive.com/blog-de/zero-knowledge/) · [Ende-zu-Ende-Verschlüsselung](https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end) · [Sicherheitsmodelle](https://proton.me/de/blog/proton-pass-security-model) |
 | **Folie 7 – Benutzerfreundlichkeit** | [Desktop-App und Bild](https://proton.me/de/support/how-to-use-proton-pass-desktop-app) |
 | **Folie 8 – Preise** | [Proton Pass Preise](https://proton.me/de/pass/pricing) |
 
