@@ -25,7 +25,12 @@ Heute habe ich meine Leitfrage erstellt und diese begründet. Ebenfalls habe ich
 
 
 ### 07.10.2026:
-In der heutigen Stunde habe ich das Kriterium „Kosten“ bearbeitet und mir viele Informationen darüber aufgeschrieben. Außerdem habe ich schon ein wenig an dem Kriterium „Benutzerfreundlichkeit“ weitergearbeitet. Ich habe ebenfalls viele Tabellen im Internet herausgesucht und diese fotografiert beziehungsweise habe ich einen Screenshot gemacht, um diesen in meiner Präsentation verwenden zu können.
+In der heutigen Stunde habe ich das Kriterium „Kosten“ bearbeitet und mir viele Informationen darüber aufgeschrieben. Außerdem habe ich schon ein wenig an dem Kriterium „Benutzerfreundlichkeit“ weitergearbeitet. Ich habe ebenfalls viele Tabellen im Internet herausgesucht und diese fotografiert beziehungsweise habe ich einen Screenshot gemacht, um diesen in meine Präsentation integrieren zu können.
+Quellen:
+- Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026; Titel: Preise; Unternehmen / Anbieter: Bitwarden
+- NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026; Titel: Preise; Unternehmen / Anbieter: NordPass
+- ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
+- https://adblock-tester.com/ad-blockers/de/proton-pass-de/ von dem 07.10.2026; Titel: Proton Pass; Unternehmen / Anbieter: AdBlock Tester
 
 
 ### 12.10.2026:
@@ -49,12 +54,43 @@ Außerdem habe ich mir eine grobe Struktur für die Präsentation erstellt, dami
 
 ### 22.10.2026:
 Heute habe ich zu Hause an meinem PC meine Recherche fortgesetzt und bin dabei schon ziemlich weit gekommen. Ich konnte mir meinen ausgewählten Dienst genauer anschauen und viele weitere Informationen dazu sammeln. Außerdem habe ich mir einen Plan für die nächsten Tage erstellt, damit ich spätestens am Montag mit der Präsentation und den weiteren Aufgaben fertig bin.
-
+Quellen:
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://proton.me/de/blog/proton-pass-security-model  geöffnet am: 22.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton
+- https://proton.me/de/pass/download  geöffnet am: 22.10.2026; Titel: Proton Pass herunterladen; Unternehmen / Anbieter: Proton
+-  https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026; Titel: Datenschutzrichtlinie; Unternehmen / Anbieter: Proton
+- https://teamdrive.com/blog-de/zero-knowledge/ geöffnet am: 22.10.2026; Titel: Zero-Knowledge; Unternehmen / Anbieter: TeamDrive
+- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026; Titel: Was ist Ende-zu-Ende-Verschlüsselung?; Unternehmen / Anbieter: Proton
 
 ### 24.10.2026:
 Heute habe ich mit meiner Präsentation begonnen und bin schon ziemlich weit gekommen. Dabei habe ich ChatGPT genutzt, um einige Probleme mit der Gestaltung und Formatierung in Visual Studio Code zu lösen. Außerdem habe ich meine Recherche zum Thema Sicherheit abgeschlossen. Den heutigen Bearbeitungstag fand ich etwas schwieriger als die vorherigen, da mir einige Funktionen noch unklar waren. Morgen möchte ich die letzten zwei Kriterien bearbeiten, damit ich mit meiner Arbeit fertig werde.
-
-
+Quellen:
+- https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE vom 24.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordVPN
+- https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton 
+- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026; Titel: Man-in-the-Middle-Angriff; Unternehmen / Anbieter: Wikipedia
+- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026; Titel: Key Transparency; Unternehmen / Anbieter: Synthszr
 ### 25.10.2026:
 Heute habe ich meine Recherche beendet und konnte so auch meine Präsentation fertigstellen. Ich fand es heute ein wenig schwieriger, weil ich zum einen bei der letzten Folie nicht genügend Platz hatte und zum anderen vergessen hatte, wie man eine Tabelle erstellt. Bei diesen Sachen habe ich mir Hilfe von ChatGPT geholt, damit ich weiterarbeiten konnte.
 Letztendlich konnte ich meine Arbeit vervollständigen und habe zum Schluss nur noch meine Dokumentation geschrieben. Außerdem habe ich mir vorgenommen, dass meine Mutter morgen meine ganzen Sachen einmal Korrektur liest, damit ich anschließend meine Präsentation in eine PDF-Datei umwandeln kann.
+Quellen:
+- https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 25.10.2026; Titel: XChaCha20-Verschlüsselung; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/impressum/ geöffnet am 25.10.2026; Titel: Impressum; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/plans/ geöffnet am 25.10.2026; Titel: Kostenlose Version und Premium-Pakete; Unternehmen / Anbieter: NordPass
+- https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026; Titel: Bitwarden Surpasses 15 Million Users; Unternehmen / Anbieter: Yahoo Finance
+- https://bitwarden.com/de-de/help/what-encryption-is-used/ geöffnet am 25.10.2026; Titel: Welche Verschlüsselung wird verwendet?; Unternehmen / Anbieter: Bitwarden
+- https://bitwarden.com/de-de/about/ geöffnet am 25.10.2026; Titel: Über uns; Unternehmen / Anbieter: Bitwarden
+- https://bitwarden.com/go/start-free/ geöffnet am 25.10.2026; Titel: Kostenlos starten; Unternehmen / Anbieter: Bitwarden
+- https://proton.me/de/pass geöffnet am 25.10.2026; Titel: Proton Pass: Kostenloser Passwortmanager mit Identitätsschutz; Unternehmen / Anbieter: Proton
+- https://proton.me/de/pass/security geöffnet am 25.10.2026; Titel: Proton Pass: Sicherer und verschlüsselter Passwort-Manager; Unternehmen / Anbieter: Proton
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller) geöffnet am 25.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://proton.me/de/pass/pricing geöffnet am 25.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
+
+
+### 26.10.2026: 
+Am heutigen Tag habe ich meine Recherche überarbeitet und ein paar Sachen hinzugefügt. Ich habe mir mit der Hilfe von ChatGPT bei den Quellenangaben helfen lassen, damit ich ein wenig Zeit spare. Anschließend habe ich meine Präsentation in eine Pdf umgewandelt, damit ich alle meine Sachen auf Logineo abgeben kann. Ebenfalls habe ich mein Repository in den Ordner getan, damit alles vollständig ist. Der heutige Tag war etwas weniger anspruchsvoll, da ich nur ein paar Informationen aufschreiben musste.
+Quellen:
+ https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 26.10.2026; Titel: Was ist die XChaCha20-Verschlüsselung?; Unternehmen / Anbieter: NordPass
+- https://www.skribble.com/de-de/blog/aes-verschlusselung/ geöffnet am 26.10.2026; Titel: Was ist die AES-Verschlüsselung?; Unternehmen / Anbieter: Skribble
+- https://www.progress.com/de/blogs/aes-256-verschluesselung-fuer-sichere-daten-verwenden geöffnet am 26.10.2026; Titel: AES-256-Verschlüsselung für sichere Daten verwenden; Unternehmen / Anbieter: Progress

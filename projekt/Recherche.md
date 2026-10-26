@@ -48,26 +48,26 @@ Quellen:
    - Santa Barbara, Kalifornien, USA
    - Gratis Account für Privatpersonen
 Quellen:
-- https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026
-- https://bitwarden.com/de-de/help/what-encryption-is-used/ geöffnet am 25.10.2026
-- https://bitwarden.com/de-de/about/ geöffnet am 25.10.2026
-- https://bitwarden.com/go/start-free/ geöffnet am 25.10.2026
+- https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026; Titel: Bitwarden Surpasses 15 Million Users; Unternehmen / Anbieter: Yahoo Finance
+- https://bitwarden.com/de-de/help/what-encryption-is-used/ geöffnet am 25.10.2026; Titel: Welche Verschlüsselung wird verwendet?; Unternehmen / Anbieter: Bitwarden
+- https://bitwarden.com/de-de/about/ geöffnet am 25.10.2026; Titel: Über uns; Unternehmen / Anbieter: Bitwarden
+- https://bitwarden.com/go/start-free/ geöffnet am 25.10.2026; Titel: Kostenlos starten; Unternehmen / Anbieter: Bitwarden
 **Proton Pass:**
    - Über 100 Millionen Menschen und Unternehmen
    - 256-Bit-AES-GCM-Tresorverschlüsselung
    - Genf (Plan-les-Ouates), Schweiz 
    - Kostenloses Paket für Privatpersonen
 Quellen:
-- https://proton.me/de/pass geöffnet am 25.10.2026
-- https://proton.me/de/pass/security geöffnet am 25.10.2026
-- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller) geöffnet am 25.10.2026
-- https://proton.me/de/pass/pricing geöffnet am 25.10.2026
+- https://proton.me/de/pass geöffnet am 25.10.2026; Titel: Proton Pass: Kostenloser Passwortmanager mit Identitätsschutz; Unternehmen / Anbieter: Proton
+- https://proton.me/de/pass/security geöffnet am 25.10.2026; Titel: Proton Pass: Sicherer und verschlüsselter Passwort-Manager; Unternehmen / Anbieter: Proton
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller) geöffnet am 25.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://proton.me/de/pass/pricing geöffnet am 25.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
 
 **_Kosten und Funktionen:_** 
 Die Kosten, die man jeweils für die drei verschiedenen Passwortmanager bezahlen muss, stehen auf den jeweiligen Webseiten.
-Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026
+Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026; Titel: Preise; Unternehmen / Anbieter: Bitwarden
 NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026; Titel: Preise; Unternehmen / Anbieter: NordPass
-ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026
+ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
 
 Bitwarden:
 ![[Bitwarden_Preise.png|700]]
@@ -76,7 +76,7 @@ ProtonPass:![[ProtonPass_Preise.png]]
 
 
  **_Vergleich:_**
- Auf der Seite „adblock-tester.com“ (https://adblock-tester.com/ad-blockers/de/proton-pass-de/)
+ Auf der Seite „adblock-tester.com“ (https://adblock-tester.com/ad-blockers/de/proton-pass-de/ von dem 07.10.2026; Titel: Proton Pass; Unternehmen / Anbieter: AdBlock Tester)
  eine Tabelle gefunden, die ebenfalls viele Eigenschaften der drei Passwortmanager darstellt und vergleicht. 
  
 ![[Bitwarden_NordPass_ProtonPass.png]]
@@ -87,10 +87,10 @@ Markteinführung: Sommer 2023
 Sicherheitsarchitektur: Ende-zu-Ende-Verschlüsselung (E2EE)
 Plattformen: Windows, macOS, Linux, IOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
 Diese Informationen habe ich von diesen Webseiten:
-- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)  geöffnet am: 22.10.2026
-- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass  geöffnet am: 22.10.2026
-- https://proton.me/de/blog/proton-pass-security-model  geöffnet am: 22.10.2026
-- https://proton.me/de/pass/download  geöffnet am: 22.10.2026
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
+- https://proton.me/de/blog/proton-pass-security-model  geöffnet am: 22.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton
+- https://proton.me/de/pass/download  geöffnet am: 22.10.2026; Titel: Proton Pass herunterladen; Unternehmen / Anbieter: Proton
 
 ### Sicherheit von Proton Pass: 
 - nutzen eine Ende-zu-Ende-Verschlüsselung (E2EE)
@@ -132,12 +132,12 @@ Was ist Key Transparency?
 Key Transparency ist ein Verfahren, mit dem Messenger-Dienste öffentlich nachprüfbar machen, welchen digitalen Schlüssel sie einem Nutzerkonto zuordnen. Es soll verhindern, dass ein Anbieter heimlich einen falschen Schlüssel unterschiebt und dadurch mitlesen kann.
 
 Informationen von diesen Webseiten:
-- https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026
-- https://teamdrive.com/blog-de/zero-knowledge/ geöffnet am: 22.10.2026
-- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026
-- https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026
-- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026
-- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026
+- https://proton.me/de/pass/privacy-policy?utm_source=chatgp geöffnet am: 22.10.2026; Titel: Datenschutzrichtlinie; Unternehmen / Anbieter: Proton
+- https://teamdrive.com/blog-de/zero-knowledge/ geöffnet am: 22.10.2026; Titel: Zero-Knowledge; Unternehmen / Anbieter: TeamDrive
+- https://proton.me/de/learn/encryption/types-of-encryption/what-is-end-to-end geöffnet am: 22.10.2026; Titel: Was ist Ende-zu-Ende-Verschlüsselung?; Unternehmen / Anbieter: Proton
+- https://proton.me/de/blog/proton-pass-security-model geöffnet am: 24.10.2026; Titel: Das Sicherheitsmodell von Proton Pass; Unternehmen / Anbieter: Proton 
+- https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff geöffnet am: 24.10.2026; Titel: Man-in-the-Middle-Angriff; Unternehmen / Anbieter: Wikipedia
+- https://www.synthszr.com/de/glossary/key-transparency geöffnet am 24.10.2026; Titel: Key Transparency; Unternehmen / Anbieter: Synthszr
 
 ### Benutzerfreundlichkeit von Proton Pass:
 
@@ -152,7 +152,7 @@ Im mittleren Bereich findest du eine Liste aller Einträge im ausgewählten Tres
 
 Der Bereich auf der rechten Seite zeigt Ihnen Details zu einem ausgewählten Eintrag.
 
-Quelle (auch von dem Bild): https://proton.me/de/support/how-to-use-proton-pass-desktop-app geöffnet am 25.10.2026
+Quelle (auch von dem Bild): https://proton.me/de/support/how-to-use-proton-pass-desktop-app geöffnet am 25.10.2026; Titel: So verwendest du die Proton-Pass-Desktop-App; Unternehmen / Anbieter: Proton
 
 ### Kosten von Proton Pass (im Monat):
 _Privates Konto:_ 
@@ -164,5 +164,36 @@ Unternehmen:
 Ich werde nur den Preis für die Privatperson benutzen.
 
 Quelle (von dem Bild): 
-1. Bild: https://proton.me/de/pass/pricing vom 07.10.2026
-2. Bild: https://proton.me/de/business/pass/pricing geöffnet am 25.10.2026
+1. Bild: https://proton.me/de/pass/pricing vom 07.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
+2. Bild: https://proton.me/de/business/pass/pricing geöffnet am 25.10.2026; Titel: Proton Pass für Unternehmen – Preise; Unternehmen / Anbieter: Proton
+
+
+### Verschlüsselungen:
+Was ist die XChaCha20-Verschlüsselung?
+Der XChaCha20-Algorithmus ist eine Methode zum Ver- und Entschlüsseln von Daten. Er unterstützt Schlüssel in zwei verschiedenen Längen, wobei die 256-Bit-Verschlüsselung am sichersten ist. NordPass verwendet XChaCha20 zum Verschlüsseln Ihres Passwort-Tresors.
+
+Darum setzt NordPass auf XChaCha20?
+Die meisten Passwort-Manager und Sicherheitsprodukte wurden für die AES-256-Verschlüsselung konzipiert, die als anerkannter Sicherheitsstandard gilt. Warum setzt NordPass also auf eine andere Lösung?
+Wir möchten, dass unser Produkt möglichst langlebig und die Sicherheit unserer Kunden auf lange Sicht gewährleistet ist. Die AES-Verschlüsselung ist zwar schnell und sicher, zeigt jedoch einige frühe Anzeichen dafür, dass sie in Zukunft möglicherweise geknackt werden könnte. In diesem Fall müssen die meisten Produkte dann auf ältere Verschlüsselungsalgorithmen zurückgreifen. Das möchten wir vermeiden, denn wir wollen uns nach vorne und nicht zurückbewegen. In technischer Hinsicht haben wir uns aus folgenden Gründen für XChaCha20 entschieden:
+- Es ist schneller zu implementieren als AES-256. Auf Plattformen ohne AES-Hardware ist es rund dreimal schneller.
+- Es ist einfacher, wodurch technische und menschliche Fehler bei der Implementierung leichter zu vermeiden sind.
+- Es erfordert keine Hardware-Unterstützung.
+- Mobile Plattformen stellen langsam aber sicher auf XChaCha20 um, sodass es in naher Zukunft noch weiter verbreitet sein wird.
+
+
+Was ist die AES-Verschlüsselung?
+Die AES-Verschlüsselung ist ein weit verbreiteter Algorithmus oder eine sogenannte Blockchiffre, um Wifi-, Browser-Verbindungen und Daten zu verschlüsseln. In diesem Ratgeber-Artikel versuchen wir, das mathematisch komplexe Thema AES-Verschlüsselung möglichst umfassend, aber auch so einfach darzustellen, dass jede und jeder es verstehen kann.
+
+Das Wichtigste in Kürze:
+- **Definition:** AES (Advanced Encryption Standard) ist ein symmetrisches Verschlüsselungsverfahren, bei dem derselbe Schlüssel für die Ver- und Entschlüsselung verwendet wird.
+- **Schlüssellängen:** AES unterstützt Schlüsselgrößen von 128, 192 und 256 Bit, was in den Bezeichnungen AES-128, AES-192 und AES-256 zum Ausdruck kommt.
+- **Anwendungsbereiche:** AES wird weltweit eingesetzt, um sensible Daten zu schützen, einschließlich der Verschlüsselung von Daten auf Servern, in drahtlosen Netzwerken (z. B. WPA2 und WPA3) und bei sicheren Browser-Verbindungen (TLS-Protokoll).
+- **Funktionsweise:** Der Algorithmus arbeitet mit einem Substitutions-Permutations-Netzwerk, das Daten in mehreren Runden durch Substitution und Permutation in scheinbar zufällige Zeichenfolgen umwandelt, um sie zu verschlüsseln.
+
+Was ist AES 256?
+Advanced Encryption Standard (AES) 256 ist ein praktisch undurchdringlicher symmetrischer Verschlüsselungsalgorithmus, der einen 256-Bit-Schlüssel verwendet, um Ihren Klartext oder Ihre Daten in eine Chiffre umzuwandeln.
+
+Quellen:
+- https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 26.10.2026; Titel: Was ist die XChaCha20-Verschlüsselung?; Unternehmen / Anbieter: NordPass
+- https://www.skribble.com/de-de/blog/aes-verschlusselung/ geöffnet am 26.10.2026; Titel: Was ist die AES-Verschlüsselung?; Unternehmen / Anbieter: Skribble
+- https://www.progress.com/de/blogs/aes-256-verschluesselung-fuer-sichere-daten-verwenden geöffnet am 26.10.2026; Titel: AES-256-Verschlüsselung für sichere Daten verwenden; Unternehmen / Anbieter: Progress
