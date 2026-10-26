@@ -1,6 +1,6 @@
 ### Was ist ein Passwortmanager?
 Ein Passwortmanager ist ein Cybersicherheitstool, das Passwörter speichert, automatisch ausfüllt und sichere Passwörter für dich generiert. Passwortmanager reduzieren die Anzahl der verschiedenen, komplexen Passwörter, die du dir in deinem digitalen Alltag merken musst, auf ein einziges – und zwar auf das Masterpasswort für deinen Passwortmanager. 
-Quelle: https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE vom 24.10.2026
+Quelle: https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc&nt=best%20vpn%20reddit&na=180867302765&gad_source=1&gad_campaignid=22797247436&gclid=EAIaIQobChMI7dSMm-bSlwMVYERBAh3njSxwEAAYAyAAEgJe7_D_BwE vom 24.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordVPN
 ### Meine Leitfrage:
 Macht ein Passwortmanager meine Passwörter sicherer, oder entstehen dadurch neue Risiken?
 
@@ -30,8 +30,6 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
 2. Bitwarden
 3. Proton Pass
 
-Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009 geöffnet am: 07.10.2026) nach einem Vergleich zwischen diesen drei Passwortmanagern gesucht und dort eine Tabelle gefunden, die viele wichtige Eigenschaften der Dienste dort hinterlegt.
-
 **NordPass:**
    - 11 Millionen Nutzer
    - über 11.500 Unternehmen
@@ -39,10 +37,10 @@ Ich habe im Internet auf der Seite „heise.de“ (https://www.heise.de/download
    - (16192 Coastal Highway, Lewes, Delaware 19958, County of Sussex, USA (WICHTIG: Ich habe keine genauen Angaben dazu gefunden. Ich habe die Anschrift aus dem Impressum genommen.))
    - Kostenloses Paket für Privatpersonen
 Quellen: 
-- https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026
-- https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 25.10.2026
-- https://nordpass.com/de/impressum/ geöffnet am 25.10.2026
-- https://nordpass.com/de/plans/ geöffnet am 25.10.2026
+- https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 25.10.2026; Titel: XChaCha20-Verschlüsselung; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/impressum/ geöffnet am 25.10.2026; Titel: Impressum; Unternehmen / Anbieter: NordPass
+- https://nordpass.com/de/plans/ geöffnet am 25.10.2026; Titel: Kostenlose Version und Premium-Pakete; Unternehmen / Anbieter: NordPass
  **Bitwarden:**
    - 15 Millionen Benutzer
    - über 80.000 Unternehmen
@@ -68,7 +66,7 @@ Quellen:
 **_Kosten und Funktionen:_** 
 Die Kosten, die man jeweils für die drei verschiedenen Passwortmanager bezahlen muss, stehen auf den jeweiligen Webseiten.
 Bitwarden: https://bitwarden.com/de-de/pricing-all/ geöffnet am: 07.10.2026
-NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026
+NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026; Titel: Preise; Unternehmen / Anbieter: NordPass
 ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026
 
 Bitwarden:
