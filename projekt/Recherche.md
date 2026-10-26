@@ -5,7 +5,7 @@ Quelle: https://nordvpn.com/de/password-manager/?nc=22797247436&ns=google&nm=cpc
 Macht ein Passwortmanager meine Passwörter sicherer, oder entstehen dadurch neue Risiken?
 
 _Warum habe ich diese Leitfrage gewählt?_
-Da ich für den Zuschauer oder Zuhörer eine wichtige Funktion eines Passwortmanagers darstelle und auch so die Risiken erkläre, die der Passwortmanager mit sich bringt. 
+Da ich dem Zuschauer oder Zuhörer eine wichtige Funktion eines Passwortmanagers darstellen und gleichzeitig die damit verbundenen Risiken erklären möchte. 
 ### Meine Kriterien:
 1.**Sicherheit**  
 **Frage:** _Wie sicher schützt der Passwortmanager meine gespeicherten Passwörter?_
@@ -34,19 +34,18 @@ Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt:
    - 11 Millionen Nutzer
    - über 11.500 Unternehmen
    -  nutzen die XChaCha20-Verschlüsselung
-   - (16192 Coastal Highway, Lewes, Delaware 19958, County of Sussex, USA (WICHTIG: Ich habe keine genauen Angaben dazu gefunden. Ich habe die Anschrift aus dem Impressum genommen.))
+   - Hinweis: Da ich keine genaue Angabe zum Standort finden konnte, lasse ich dies bei NordPass aus.
    - Kostenloses Paket für Privatpersonen
 Quellen: 
 - https://nordpass.com/de/password-manager/offer/ geöffnet am 25.10.2026; Titel: Passwort-Manager; Unternehmen / Anbieter: NordPass
 - https://nordpass.com/de/features/xchacha20-encryption/ geöffnet am 25.10.2026; Titel: XChaCha20-Verschlüsselung; Unternehmen / Anbieter: NordPass
-- https://nordpass.com/de/impressum/ geöffnet am 25.10.2026; Titel: Impressum; Unternehmen / Anbieter: NordPass
 - https://nordpass.com/de/plans/ geöffnet am 25.10.2026; Titel: Kostenlose Version und Premium-Pakete; Unternehmen / Anbieter: NordPass
  **Bitwarden:**
    - 15 Millionen Benutzer
    - über 80.000 Unternehmen
-   - Bitwarden verwendet AES-CBC 256-Bit-Verschlüsselung für Ihre Tresor-Daten
+   - Bitwarden verwendet AES-CBC 256-Bit-Verschlüsselung für die Tresor-Daten
    - Santa Barbara, Kalifornien, USA
-   - Gratis Account für Privatpersonen
+   - Kostenloser Account für Privatpersonen
 Quellen:
 - https://finance.yahoo.com/technology/ai/articles/bitwarden-surpasses-15-million-users-160000253.html geöffnet am 25.10.2026; Titel: Bitwarden Surpasses 15 Million Users; Unternehmen / Anbieter: Yahoo Finance
 - https://bitwarden.com/de-de/help/what-encryption-is-used/ geöffnet am 25.10.2026; Titel: Welche Verschlüsselung wird verwendet?; Unternehmen / Anbieter: Bitwarden
@@ -76,16 +75,16 @@ ProtonPass:![[ProtonPass_Preise.png]]
 
 
  **_Vergleich:_**
- Auf der Seite „adblock-tester.com“ (https://adblock-tester.com/ad-blockers/de/proton-pass-de/ von dem 07.10.2026; Titel: Proton Pass; Unternehmen / Anbieter: AdBlock Tester)
- eine Tabelle gefunden, die ebenfalls viele Eigenschaften der drei Passwortmanager darstellt und vergleicht. 
+ Auf der Seite „adblock-tester.com“ (https://adblock-tester.com/ad-blockers/de/proton-pass-de/ von dem 07.10.2026; Titel: Proton Pass; Unternehmen / Anbieter: AdBlock Tester) habe ich
+ eine Tabelle gefunden, die ebenfalls viele Eigenschaften der drei Passwortmanager darstellt und vergleicht.
  
 ![[Bitwarden_NordPass_ProtonPass.png]]
 
 ## Proton Pass:
-Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quantes bei Genf, Schweiz)
+Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quates bei Genf, Schweiz)
 Markteinführung: Sommer 2023
 Sicherheitsarchitektur: Ende-zu-Ende-Verschlüsselung (E2EE)
-Plattformen: Windows, macOS, Linux, IOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
+Plattformen: Windows, macOS, Linux, iOS, Android und Browser-Erweiterungen für Firefox, Chrome, Brave und Edge
 Diese Informationen habe ich von diesen Webseiten:
 - https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
 - https://de.wikipedia.org/wiki/Proton_(Softwarehersteller)#Proton_Pass  geöffnet am: 22.10.2026; Titel: Proton (Softwarehersteller); Unternehmen / Anbieter: Wikipedia
@@ -93,23 +92,23 @@ Diese Informationen habe ich von diesen Webseiten:
 - https://proton.me/de/pass/download  geöffnet am: 22.10.2026; Titel: Proton Pass herunterladen; Unternehmen / Anbieter: Proton
 
 ### Sicherheit von Proton Pass: 
-- nutzen eine Ende-zu-Ende-Verschlüsselung (E2EE)
-- gehen nach dem Zero-Knowledge-Prinzip
+- Ende-zu-Ende-Verschlüsselung (E2EE)
+- Zero-Knowledge-Prinzip
 - Server liegen ausschließlich in:
 1. der Schweiz
 2. Deutschland
 3. Norwegen
 - man kann sich E-Mail-Aliase erstellen
 - Secure Remote Password (SRP)-Protokoll
-- nutzen Tresorverschlüsselung
+- Tresorverschlüsselung
 - Elementverschlüsselung
 - Key Transparency
 
-Was ist eine Ende-zu-Ende-Verschlüsselung (E2EE)?
+Was ist Ende-zu-Ende-Verschlüsselung (E2EE)?
 Ende-zu-Ende-Verschlüsselung (E2EE) verschlüsselt deine Daten auf deinem Gerät und entschlüsselt sie erst auf dem Gerät des Empfängers. Bei „Ende-zu-Ende“ ist ein Ende der Ursprung (dein Gerät) und das andere das Ziel (das Gerät des Empfängers) der Reise deiner Daten.
 
 Was ist das Zero-Knowledge-Prinzip?
-Zero Knowledge bedeutet, dass der Cloud-Dienstleister keine Kenntnis über die in der Cloud gespeicherten Daten und Informationen erlangt, wodurch absolute Vertraulichkeit gewährleistet wird.
+Zero-Knowledge bedeutet, dass der Cloud-Dienstleister keine Kenntnis über die in der Cloud gespeicherten Daten und Informationen erlangt, wodurch absolute Vertraulichkeit gewährleistet wird.
 
 Was sind Aliase?
 Diese Funktion ermöglicht es dir, zufällig generierte E-Mail-Adressen zu erstellen, die du anstelle deiner echten E-Mail-Adressen für Online-Konten verwenden kannst. So kannst du einfach einen Alias abschalten, der mit einem Dienst verknüpft ist, der gehackt wurde oder anfängt, dir Spam zu senden, ohne deine anderen Konten zu beeinträchtigen.
@@ -144,7 +143,7 @@ Informationen von diesen Webseiten:
 Die Proton Pass Desktop-App ist in drei Bereiche unterteilt.
 ![[proton_pass_desktop_app.webp]]
 
-Auf der linken Seite können Sie auf Ihre verschiedenen Tresore zugreifen – die Verzeichnisse für Ihre verschiedenen **Einträge** (Einträge ist der Begriff für Anmeldungen, Kreditkarten, Notizen usw.) – sowie auf Ihren **Papierkorb** und verschiedene weitere Optionen.
+Auf der linken Seite können Sie auf Ihre verschiedenen Tresore zugreifen – die Verzeichnisse für Ihre verschiedenen **Einträge** (Mit „Einträgen“ sind beispielsweise Anmeldungen, Kreditkarten und Notizen gemeint.) – sowie auf Ihren **Papierkorb** und verschiedene weitere Optionen.
 
 Tresore können verwendet werden, um Einträge zu organisieren – im obigen Beispiel haben wir einen Tresor für persönliche Einträge und einen für berufliche Einträge.
 
@@ -161,7 +160,7 @@ _Privates Konto:_
 Unternehmen:
 ![[proton_pass_preis_unternehmen.png]]
 
-Ich werde nur den Preis für die Privatperson benutzen.
+Ich werde für den Vergleich nur den Preis für Privatpersonen verwenden.
 
 Quelle (von dem Bild): 
 1. Bild: https://proton.me/de/pass/pricing vom 07.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
