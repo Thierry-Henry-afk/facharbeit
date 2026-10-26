@@ -22,7 +22,7 @@ Ich habe Benutzerfreundlichkeit gewählt, weil ein Passwortmanager einfach und v
 _3.Kosten:_
 Ich habe Kosten gewählt, weil ich wissen möchte, ob man für einen guten Passwortmanager Geld bezahlen muss oder ob eine kostenlose Version ausreicht.
 
-![[Kriterien.png]]
+![Kriterien](./bilder/Kriterien.png)
 
 ### Passwortmanager im Vergleich:
 Als Beispiel für Passwortmanager-Dienste habe ich diese ausgewählt: 
@@ -66,16 +66,18 @@ NordPass: https://nordpass.com/de/pricing/ geöffnet am: 07.10.2026; Titel: Prei
 ProtonPass: https://proton.me/de/pass/pricing geöffnet am: 07.10.2026; Titel: Proton Pass: Preise und Abonnements; Unternehmen / Anbieter: Proton
 
 Bitwarden:
-![[Bitwarden_Preise.png|700]]
-NordPass:![[NordPass_Preise.png]]
-ProtonPass:![[ProtonPass_Preise.png]]
+![Bitwarden Preise](./bilder/Bitwarden_Preise.png)
+NordPass:
+![NordPass Preise](./bilder/NordPass_Preise.png)
+ProtonPass:
+![Proton Pass Preise](./bilder/ProtonPass_Preise.png)
 
 
  **_Vergleich:_**
  Auf der Seite „adblock-tester.com“ (https://adblock-tester.com/ad-blockers/de/proton-pass-de/ von dem 07.10.2026; Titel: Proton Pass; Unternehmen / Anbieter: AdBlock Tester) habe ich
  eine Tabelle gefunden, die ebenfalls viele Eigenschaften der drei Passwortmanager darstellt und vergleicht.
  
-![[Bitwarden_NordPass_ProtonPass.png]]
+![Vergleich](./bilder/Bitwarden_NordPass_ProtonPass.png)
 
 ## Proton Pass:
 Entwickler: Schweizer Unternehmen Proton AG (Hauptsitz: Plan-les-Quates bei Genf, Schweiz)
@@ -129,7 +131,7 @@ Informationen von diesen Webseiten:
 ### Benutzerfreundlichkeit von Proton Pass:
 
 Die Proton Pass Desktop-App ist in drei Bereiche unterteilt.
-![[proton_pass_desktop_app.webp]]
+![Proton Pass Desktop-App](./bilder/proton_pass_desktop_app.webp)
 
 Auf der linken Seite können Sie auf Ihre verschiedenen Tresore zugreifen – die Verzeichnisse für Ihre verschiedenen **Einträge** (Mit „Einträgen“ sind beispielsweise Anmeldungen, Kreditkarten und Notizen gemeint.) – sowie auf Ihren **Papierkorb** und verschiedene weitere Optionen.
 
@@ -143,10 +145,10 @@ Quelle (auch von dem Bild): https://proton.me/de/support/how-to-use-proton-pass-
 
 ### Kosten von Proton Pass (im Monat):
 _Privates Konto:_ 
-![[facharbeit/projekt/bilder/ProtonPass_Preise.png]]
+![Proton Pass Preise](./bilder/ProtonPass_Preise.png)
 
 Unternehmen:
-![[proton_pass_preis_unternehmen.png]]
+![Proton Pass Preise Unternehmen](./bilder/proton_pass_preis_unternehmen.png)
 
 Ich werde für den Vergleich nur den Preis für Privatpersonen verwenden.
 
