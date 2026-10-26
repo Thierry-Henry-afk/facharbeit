@@ -182,7 +182,7 @@ _Warum habe ich diese Leitfrage gewählt?_
 
 ---
 <!-- _class: content-slide -->
-# Proton Pass & NordPass & Bitwarden
+# NordPass & Bitwarden & Proton Pass
 
 || NordPass | Bitwarden | Proton Pass |
 |----------|----------|----------|----------|
